@@ -1,0 +1,10 @@
+#LoginArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#LoginHeader{
+    font-size:xx-large;
+}
